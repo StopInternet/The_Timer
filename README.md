@@ -8,4 +8,4 @@
   <li>HTMLとJavaScriptで実装する。</li><br>
   <li>デザインもきれいにし。見やすくる。</li>
  </ul>
-<a herf="https://www.nagahitoyuki.com/2021/04/a-stopwatch-program-that-count-and-displays-time-in-javascript.html">参照1</a>
+<a href="https://www.nagahitoyuki.com/2021/04/a-stopwatch-program-that-count-and-displays-time-in-javascript.html">参照1</a>
