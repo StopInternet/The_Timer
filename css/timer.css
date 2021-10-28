@@ -35,16 +35,18 @@ header{
 #global ul li a {
     display:  block;
     padding: 16px;
-    background-color: black;
-    color: olivedrab;
+    background-color:white;
+    color: black;
     text-decoration: none;
 }
 
 #global ul li a:hover{
-    background-color: rgb(163, 16, 114);
+    background-color: rgb(241, 217, 0);
 }
 body{
     background-color: lightblue;
+    width: 980px;
+    margin: 0 auto;
 }
 h1{
     width: 600px;
@@ -109,7 +111,16 @@ button button{
     box-shadow:3px 3px 6px rgba(40, 134, 172, 0.4);
 }
 #ma{
+    width: 980px;
+    clear: both;
+    overflow: hidden;
+    margin: 16px auto;
     text-align: center;
-    width:500px;
-    margin: 0 auto;
+    font-size: 30px;
+}
+#button{
+    font-size: 30px;
+}
+#min #min_1 #min_2 #min_3 #sec #sec_1 #sec_2 #sec_3{
+    font: 30px;
 }
